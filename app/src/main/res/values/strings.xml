@@ -1,0 +1,36 @@
+<resources>
+    <string name="app_name">Monitoramento Ecológico</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="action_listar_atividade">Atividade com WebService</string>
+    <string name="action_listar_fragmento">Fragmento com JSON</string>
+    <string name="action_settings">Settings</string>
+    <string name="deletar">Deletar</string>
+    <string name="des">Desenvolvido por</string>
+    <string name="desnome">Bruno Trevissoi</string>
+    <string name="nome">Nome</string>
+    <string name="valor">Valor</string>
+
+    <string name="acao_novo">Novo</string>
+
+    <array name="cores_bg">
+        <item>#ffffff</item>
+        <item>#ffffff</item>
+        <item>#ffffff</item>
+        <item>#ffffff</item>
+    </array>
+    <string-array name="secoes">
+        <item>Dia</item>
+        <item>Semana</item>
+        <item>Mês</item>
+        <item>Ano</item>
+
+    </string-array>
+    <array name="cores_texto">
+        <item>#070707</item>
+        <item>#070707</item>
+        <item>#070707</item>
+        <item>#070707</item>
+    </array>
+
+</resources>
